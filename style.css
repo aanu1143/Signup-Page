@@ -63,6 +63,7 @@ body {
     padding: 30px;
     background-color: white;
     margin-top: 20px;
+    box-shadow: 0px 4px 5px 0.7px rgba(71, 71, 71, 0.4);
 }
 
 .formupper {
@@ -118,7 +119,7 @@ input:hover {
 
 .tnc {
     font-size: 10px;
-    margin-left: 45px;
+    margin-left: 5px;
     color: rgb(117, 118, 119);
     text-align: center;
 }
